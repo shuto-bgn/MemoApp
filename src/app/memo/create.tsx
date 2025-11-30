@@ -1,4 +1,3 @@
-
 import { JSX } from 'react'
 import {
     View, TextInput, StyleSheet, KeyboardAvoidingView 
